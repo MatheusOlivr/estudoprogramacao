@@ -1,0 +1,14 @@
+REVISÃO1DIA
+09/11/2021
+Foi revisado o conteúdo sobre slimframework T57
+Foi revisado o conteúdo sobre virtualhost T56
+10/11/2021
+Foi revisado o conteúdo sobre commnad injector
+Foi revisado o conteúdo sobre sql Injector
+11/11/2021
+Foi revisado o conteúdo sobre permissões de pasta
+Foi revisado o conteúdo sobre recaptcha
+13/11/2021
+Foi revisado o conteúdo sobre criptografia
+Foi revisado o conteúdo sobre sessiod id hacking
+ 

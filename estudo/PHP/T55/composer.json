@@ -1,0 +1,19 @@
+{
+    "name": "matheus/t55",
+    "autoload": {
+        "psr-4": {
+            "Matheus\\T55\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MatheusOlivr",
+            "email": "contato.matheusoliv@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "rain/raintpl": ">=3.0.0"
+
+    }
+}

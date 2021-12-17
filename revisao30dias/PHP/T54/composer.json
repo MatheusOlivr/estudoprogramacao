@@ -1,0 +1,12 @@
+{
+    "name": "matheus/t54",
+    "autoload": {
+        "psr-4": {
+            "Matheus\\T54\\": "src/"
+        }
+    },
+    "require": 
+    {
+    "phpmailer/phpmailer": "^6.5"
+    }
+}

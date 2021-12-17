@@ -1,0 +1,15 @@
+Estudo:
+08/11/2021
+Hoje eu estudei:
+- Template com RainTPL
+- SlimFramework
+- Criando diretórios virtuais
+
+09/11/2021
+- Estudei sobre Command Injector
+- Estudei sobre Sql injector
+
+11/11/2021
+- Aprendi sobre cross Site scripting
+- Aprendi sobre estruturação MVC
+- Aprendi sobre defense in dept

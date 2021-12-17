@@ -1,0 +1,8 @@
+REVISÃO120DIAS
+
+-- 08/12/2021 --
+T8	SWITCH check
+T9	FOR check
+T12	ARRAYS check
+T34.3	PDO: Inserindo dados no banco check
+T34.5	PDO: Apagando dados no banco check
